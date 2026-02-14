@@ -1,0 +1,18 @@
+{
+  "shopName": { "en": "Whiskers Gelato", "zh": "Whiskers 冰淇淋" },
+  "tagline": {
+    "en": "Freshly churned happiness.",
+    "zh": "每日新鲜制作的快乐。"
+  },
+  "address": { "en": "123 Sydney Street", "zh": "悉尼某某街123号" },
+  "hours": { 
+    "mon": "12:00 - 21:00", 
+    "tue": "12:00 - 21:00",
+    "wed": "12:00 - 21:00",
+    "thu": "12:00 - 21:00",
+    "fri": "12:00 - 22:00",
+    "sat": "12:00 - 22:00",
+    "sun": "12:00 - 21:00"
+  },
+  "social": { "instagram": "#", "facebook": "#", "xiaohongshu": "#" }
+}

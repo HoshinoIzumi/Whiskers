@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pistachio",
+    "category": "signature",
+    "priceTier": "standard",
+    "isActive": true,
+    "sortOrder": 1,
+    "name": { "en": "Pistachio", "zh": "开心果" },
+    "description": {
+      "en": "Roasted pistachio gelato.",
+      "zh": "烘烤开心果风味。"
+    }
+  },
+  {
+    "id": "matcha",
+    "category": "signature",
+    "priceTier": "standard",
+    "isActive": true,
+    "sortOrder": 2,
+    "name": { "en": "Matcha", "zh": "抹茶" },
+    "description": {
+      "en": "Premium Japanese matcha.",
+      "zh": "优质日本抹茶。"
+    }
+  }
+]
