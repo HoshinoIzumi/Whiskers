@@ -11,12 +11,14 @@ export default function Navbar() {
   const navItems = isZh
     ? [
         { name: "首页", href: "/zh" },
+        { name:"菜单",href:"/zh/menu"},
         { name: "口味", href: "/zh/flavours" },
         { name: "到店", href: "/zh/visit" },
         { name: "社交", href: "/zh/social" },
       ]
     : [
         { name: "Home", href: "/" },
+        { name: "Menu", href: "/menu"},
         { name: "Flavours", href: "/flavours" },
         { name: "Visit", href: "/visit" },
         { name: "Social", href: "/social" },
